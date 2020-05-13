@@ -1,0 +1,7 @@
+print('App Luas Segitiga')
+print('Masukan Alas')
+alas=input()
+print('Masukan Tinggi')
+tinggi=input()
+luas=0.5*float(alas)*float(tinggi)
+print('Luas Segitiga = '+str(luas))
